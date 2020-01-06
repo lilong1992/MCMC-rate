@@ -1,0 +1,3 @@
+This is a code sample using emcee python package to investigate rate estimation and errors in particle scattering.
+
+To run it, make sure emcee (https://emcee.readthedocs.io/en/stable/user/install/) and corner.py (https://corner.readthedocs.io/en/latest/install.html) are installed.
